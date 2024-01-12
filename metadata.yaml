@@ -1,0 +1,36 @@
+_repo: The-Christmas-gift-b-A-story-for-little-folks_72610
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia:
+    - https://en.wikipedia.org/wiki/William_Taylor_Adams
+    - http://www.gutenberg.org/ebooks/author/5655
+description: ''
+gutenberg_issued: '2024-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72610'
+language: en
+pgterms:marc904: https://archive.org/details/the-christmas-gift/mode/1up
+pgterms:marc905: 20231018165735optic
+pgterms:marc906: '1862'
+pgterms:marc907: us
+production_note: Carol Brown, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bLee and Shepard, $c1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Christmas gift : $b A story for little folks'
+url: http://www.gutenberg.org/ebooks/72610
