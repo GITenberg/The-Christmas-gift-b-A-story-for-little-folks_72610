@@ -1,5 +1,8 @@
 _repo: The-Christmas-gift-b-A-story-for-little-folks_72610
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72610-h/images/cover.jpg
 creator:
   author:
     agent_name: Optic, Oliver
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/William_Taylor_Adams
     - http://www.gutenberg.org/ebooks/author/5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72610#The-Christmas-gift-b-A-story-for-little-folks
 gutenberg_issued: '2024-01-03'
 gutenberg_type: Text
 identifiers:
